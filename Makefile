@@ -1,4 +1,4 @@
-.PHONY: run dev build
+.PHONY: run dev build clean
 
 dev:
 	@echo "Running..."
